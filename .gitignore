@@ -1,0 +1,4 @@
+scripts/sshkey/id_rsa.pub
+scripts/sshkey/id_rsa
+.vagrant/
+*.log
